@@ -1,18 +1,19 @@
 <h1 align="center">Hi 👋, I'm Touhidul Islam</h1>
-<h3 align="center">Front-End Web Devleoper</h3>
+<h5>👉 Front-End Web Devleoper</h5>
 
-- 🌱 I’m currently learning **Nodejs**
+🚀 I’m currently learning **Nodejs**
 
-- 💬 Ask me about **React**
+💬 Ask me about **React**
 
-- 📫 How to reach me **touhiduliet@gmail.com**
+📫 How to reach me **touhiduliet@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dhOO3W4joitoi4wlWzkLqpUd_BLLdb99/view?usp=drive_link](https://drive.google.com/file/d/1dhOO3W4joitoi4wlWzkLqpUd_BLLdb99/view?usp=drive_link)
+📄 Know about <a style="text-decoration: none !important; color:black;" href="https://drive.google.com/file/d/1dhOO3W4joitoi4wlWzkLqpUd_BLLdb99/view?usp=drive_link" target="blank">my experiences</a>
 
-- ⚡ Fun fact **I am good at drinking tea**
+⚡ Fun fact **I am good at drinking tea**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a style="text-decoration: none !important;" href="https://fiverr.com/mdislam124" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/12/Fiverr-Logo-700x394.png" alt="touhidul7" height="30" width="50" /></a>
 <a style="text-decoration: none !important;" href="https://codepen.io/touhidul7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="touhidul7" height="30" width="40" /></a>
 <a style="text-decoration: none !important;" href="https://twitter.com/touhidul5700" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="touhidul5700" height="30" width="40" /></a>
 <a style="text-decoration: none !important;" href="https://fb.com/touhidul5700" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="touhidul5700" height="30" width="40" /></a>
