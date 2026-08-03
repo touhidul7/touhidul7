@@ -65,8 +65,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=touhidul7&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touhidul7&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="./profile/stats.svg" alt="Touhidul's GitHub statistics" />
+  <img src="./profile/top-langs.svg" alt="Touhidul's top languages" />
 </p>
 
 ---
